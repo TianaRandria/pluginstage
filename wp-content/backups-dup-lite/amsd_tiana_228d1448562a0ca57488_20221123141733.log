@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 23 November 2022 14h17
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.1
+WORDPRESS:	6.1.1
+PHP INFO:	8.1.10 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 46MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: amsd_tiana_228d1448562a0ca57488_20221123141733_database.sql
+SQL FILE SIZE: 488.01KB (499721)
+SQL FILE TIME: 2022-11-23 14:17:40
+SQL RUNTIME: 0.59 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/laragon/www/amsd
+ARCHIVE FILE: amsd_tiana_228d1448562a0ca57488_20221123141733_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	76.22MB
+STATS:	Dirs 622 | Files 4,253
+SQL ADDED: amsd_tiana_228d1448562a0ca57488_20221123141733_database.sql
+ZipArchive Object
+(
+    [lastId] => 4874
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4875
+    [filename] => C:\laragon\www\amsd\wp-content\backups-dup-lite\tmp\amsd_tiana_228d1448562a0ca57488_20221123141733_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4874
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 22.78MB
+ARCHIVE RUNTIME: 5.89 sec.
+MEMORY STACK: 48MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 488.01KB
+INSTALLER FILE: 73.34KB
+ARCHIVE FILE: 24.61MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 4,875
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 4,874
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 7.47 sec.
+PEAK PHP MEMORY USED: 48MB
+DONE PROCESSING => amsd_tiana 23 November 2022 14h17
+

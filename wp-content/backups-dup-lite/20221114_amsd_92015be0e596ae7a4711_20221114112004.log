@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 14 November 2022 11h20
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.0
+WORDPRESS:	6.1
+PHP INFO:	8.1.10 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 38MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: 20221114_amsd_92015be0e596ae7a4711_20221114112004_database.sql
+SQL FILE SIZE: 532.79KB (545575)
+SQL FILE TIME: 2022-11-14 11:20:12
+SQL RUNTIME: 0.60 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/laragon/www/amsd
+ARCHIVE FILE: 20221114_amsd_92015be0e596ae7a4711_20221114112004_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	62.3MB
+STATS:	Dirs 564 | Files 3,840
+SQL ADDED: 20221114_amsd_92015be0e596ae7a4711_20221114112004_database.sql
+ZipArchive Object
+(
+    [lastId] => 4403
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4404
+    [filename] => C:\laragon\www\amsd\wp-content\backups-dup-lite\tmp\20221114_amsd_92015be0e596ae7a4711_20221114112004_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4403
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 17.76MB
+ARCHIVE RUNTIME: 23.72 sec.
+MEMORY STACK: 40MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 532.79KB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 19.57MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 4,404
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 4,403
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 25.27 sec.
+PEAK PHP MEMORY USED: 40MB
+DONE PROCESSING => 20221114_amsd 14 November 2022 11h20
+
